@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63085d406400b4feaaaf2e912092bf80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drawerTransform: {instanceID: 0}
+  - missileItemPrefab: {fileID: 714195837360763558, guid: e509df5ebc9cd4bbba058af65e0798ca, type: 3}
+  - currentWeaponIcon: {instanceID: 0}
+  - playerTank: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

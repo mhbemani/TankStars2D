@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2e605ee247a394209b0b7110ae6a0d1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageTextPrefab: {fileID: 2266727279320507951, guid: b770742da968a4b07a07775e68b3286e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
