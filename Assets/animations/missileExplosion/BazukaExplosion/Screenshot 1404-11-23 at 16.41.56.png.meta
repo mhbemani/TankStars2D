@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 11e084e4500cf493dbc25e5bd89a9272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8881599288341854306
+    second: Screenshot 1404-11-23 at 16.41.56_0
+  - first:
+      213: 863871534382475018
+    second: Screenshot 1404-11-23 at 16.41.56_1
+  - first:
+      213: 6131880220167226136
+    second: Screenshot 1404-11-23 at 16.41.56_2
+  - first:
+      213: 6452993390152180306
+    second: Screenshot 1404-11-23 at 16.41.56_3
+  - first:
+      213: 4715513334412807806
+    second: Screenshot 1404-11-23 at 16.41.56_4
+  - first:
+      213: -6723769854863179170
+    second: Screenshot 1404-11-23 at 16.41.56_5
+  - first:
+      213: 5987049759747277380
+    second: Screenshot 1404-11-23 at 16.41.56_6
+  - first:
+      213: -1722394963320544477
+    second: Screenshot 1404-11-23 at 16.41.56_7
+  - first:
+      213: 4143110984525317066
+    second: Screenshot 1404-11-23 at 16.41.56_8
+  - first:
+      213: 1524358299987012981
+    second: Screenshot 1404-11-23 at 16.41.56_9
+  - first:
+      213: -6685612222837650814
+    second: Screenshot 1404-11-23 at 16.41.56_10
+  - first:
+      213: 703563320656913238
+    second: Screenshot 1404-11-23 at 16.41.56_11
+  - first:
+      213: 5925652314639447337
+    second: Screenshot 1404-11-23 at 16.41.56_12
+  - first:
+      213: 2253932276495644604
+    second: Screenshot 1404-11-23 at 16.41.56_13
+  - first:
+      213: -5017821827223964097
+    second: Screenshot 1404-11-23 at 16.41.56_14
+  - first:
+      213: 1081156266955327974
+    second: Screenshot 1404-11-23 at 16.41.56_15
+  - first:
+      213: -7943826350760002148
+    second: Screenshot 1404-11-23 at 16.41.56_16
+  - first:
+      213: -4621002056294335509
+    second: Screenshot 1404-11-23 at 16.41.56_17
+  - first:
+      213: -5034095040035930237
+    second: Screenshot 1404-11-23 at 16.41.56_18
+  - first:
+      213: 7031451511149707411
+    second: Screenshot 1404-11-23 at 16.41.56_19
+  - first:
+      213: 4280611394596135534
+    second: Screenshot 1404-11-23 at 16.41.56_20
+  - first:
+      213: -4243124105943400759
+    second: Screenshot 1404-11-23 at 16.41.56_21
+  - first:
+      213: 463355790016275277
+    second: Screenshot 1404-11-23 at 16.41.56_22
+  - first:
+      213: -3619607246086834757
+    second: Screenshot 1404-11-23 at 16.41.56_23
+  - first:
+      213: -127239048939571946
+    second: Screenshot 1404-11-23 at 16.41.56_24
+  - first:
+      213: -3110625966576137086
+    second: Screenshot 1404-11-23 at 16.41.56_25
+  - first:
+      213: -9110124686377871011
+    second: Screenshot 1404-11-23 at 16.41.56_26
+  - first:
+      213: 2411240541364801796
+    second: Screenshot 1404-11-23 at 16.41.56_27
+  - first:
+      213: -181214941282225358
+    second: Screenshot 1404-11-23 at 16.41.56_28
+  - first:
+      213: -7004209768268118618
+    second: Screenshot 1404-11-23 at 16.41.56_29
+  - first:
+      213: -1161511257875836824
+    second: Screenshot 1404-11-23 at 16.41.56_30
+  - first:
+      213: -8500087470722221127
+    second: Screenshot 1404-11-23 at 16.41.56_31
+  - first:
+      213: 2952039180464782818
+    second: Screenshot 1404-11-23 at 16.41.56_32
+  - first:
+      213: -1006512563867108381
+    second: Screenshot 1404-11-23 at 16.41.56_33
+  - first:
+      213: -965702904571347217
+    second: Screenshot 1404-11-23 at 16.41.56_34
+  - first:
+      213: -6216438382148059827
+    second: Screenshot 1404-11-23 at 16.41.56_35
+  - first:
+      213: 913644248663637931
+    second: Screenshot 1404-11-23 at 16.41.56_36
+  - first:
+      213: -8469430284299183796
+    second: Screenshot 1404-11-23 at 16.41.56_37
+  - first:
+      213: 6757827866231007817
+    second: Screenshot 1404-11-23 at 16.41.56_38
+  - first:
+      213: -440159634998525772
+    second: Screenshot 1404-11-23 at 16.41.56_39
+  - first:
+      213: -823543164024606559
+    second: Screenshot 1404-11-23 at 16.41.56_40
+  - first:
+      213: -3047440375224828277
+    second: Screenshot 1404-11-23 at 16.41.56_41
+  - first:
+      213: -6283277818591805314
+    second: Screenshot 1404-11-23 at 16.41.56_42
+  - first:
+      213: -7723723166663772045
+    second: Screenshot 1404-11-23 at 16.41.56_43
+  - first:
+      213: -1073538891994828951
+    second: Screenshot 1404-11-23 at 16.41.56_44
+  - first:
+      213: 3153945481020845527
+    second: Screenshot 1404-11-23 at 16.41.56_45
+  - first:
+      213: -2688320769757661563
+    second: Screenshot 1404-11-23 at 16.41.56_46
+  - first:
+      213: -7783063063594321918
+    second: Screenshot 1404-11-23 at 16.41.56_47
+  - first:
+      213: -2268550680047449163
+    second: Screenshot 1404-11-23 at 16.41.56_48
+  - first:
+      213: -5470795529507227000
+    second: Screenshot 1404-11-23 at 16.41.56_49
+  - first:
+      213: 3006916656134387412
+    second: Screenshot 1404-11-23 at 16.41.56_50
+  - first:
+      213: 1535901549468806614
+    second: Screenshot 1404-11-23 at 16.41.56_51
+  - first:
+      213: 1826207086564525577
+    second: Screenshot 1404-11-23 at 16.41.56_52
+  - first:
+      213: 7355840839762084650
+    second: Screenshot 1404-11-23 at 16.41.56_53
+  - first:
+      213: 6977869537636670228
+    second: Screenshot 1404-11-23 at 16.41.56_54
+  - first:
+      213: -5553325799596195127
+    second: Screenshot 1404-11-23 at 16.41.56_55
+  - first:
+      213: -7329376896613189224
+    second: Screenshot 1404-11-23 at 16.41.56_56
+  - first:
+      213: -2416567541939888484
+    second: Screenshot 1404-11-23 at 16.41.56_57
+  - first:
+      213: -7821889067261261009
+    second: Screenshot 1404-11-23 at 16.41.56_58
+  - first:
+      213: 7915294147321695761
+    second: Screenshot 1404-11-23 at 16.41.56_59
+  - first:
+      213: -3665263299183353445
+    second: Screenshot 1404-11-23 at 16.41.56_60
+  - first:
+      213: 4383198955608278382
+    second: Screenshot 1404-11-23 at 16.41.56_61
+  - first:
+      213: 2458138907655113288
+    second: Screenshot 1404-11-23 at 16.41.56_62
+  - first:
+      213: 5335339657450597793
+    second: Screenshot 1404-11-23 at 16.41.56_63
+  - first:
+      213: 4170694368822350608
+    second: Screenshot 1404-11-23 at 16.41.56_64
+  - first:
+      213: -6062662993445103662
+    second: Screenshot 1404-11-23 at 16.41.56_65
+  - first:
+      213: 396958675924452739
+    second: Screenshot 1404-11-23 at 16.41.56_66
+  - first:
+      213: -6236583501518136624
+    second: Screenshot 1404-11-23 at 16.41.56_67
+  - first:
+      213: 7541686019103508755
+    second: Screenshot 1404-11-23 at 16.41.56_68
+  - first:
+      213: -6953488739290279199
+    second: Screenshot 1404-11-23 at 16.41.56_69
+  - first:
+      213: 812894949000523033
+    second: Screenshot 1404-11-23 at 16.41.56_70
+  - first:
+      213: -6759077700392170546
+    second: Screenshot 1404-11-23 at 16.41.56_71
+  - first:
+      213: 3292105516253776112
+    second: Screenshot 1404-11-23 at 16.41.56_72
+  - first:
+      213: 3107706061524122965
+    second: Screenshot 1404-11-23 at 16.41.56_73
+  - first:
+      213: 4782196244746351934
+    second: Screenshot 1404-11-23 at 16.41.56_74
+  - first:
+      213: -9156646695899633123
+    second: Screenshot 1404-11-23 at 16.41.56_75
+  - first:
+      213: -8239993547089406240
+    second: Screenshot 1404-11-23 at 16.41.56_76
+  - first:
+      213: 3568286021793520037
+    second: Screenshot 1404-11-23 at 16.41.56_77
+  - first:
+      213: -5505042373008392177
+    second: Screenshot 1404-11-23 at 16.41.56_78
+  - first:
+      213: 2153597801393073978
+    second: Screenshot 1404-11-23 at 16.41.56_79
+  - first:
+      213: 5160637077872458978
+    second: Screenshot 1404-11-23 at 16.41.56_80
+  - first:
+      213: -1966959915627525689
+    second: Screenshot 1404-11-23 at 16.41.56_81
+  - first:
+      213: -2787256379445167218
+    second: Screenshot 1404-11-23 at 16.41.56_82
+  - first:
+      213: 6888276346597500201
+    second: Screenshot 1404-11-23 at 16.41.56_83
+  - first:
+      213: -2826536642594327654
+    second: Screenshot 1404-11-23 at 16.41.56_84
+  - first:
+      213: -5445280332476131945
+    second: Screenshot 1404-11-23 at 16.41.56_85
+  - first:
+      213: 4432139283272992227
+    second: Screenshot 1404-11-23 at 16.41.56_86
+  - first:
+      213: -7604630800743680728
+    second: Screenshot 1404-11-23 at 16.41.56_87
+  - first:
+      213: 951595768169937200
+    second: Screenshot 1404-11-23 at 16.41.56_88
+  - first:
+      213: -2239774032088351778
+    second: Screenshot 1404-11-23 at 16.41.56_89
+  - first:
+      213: 6521296928645786925
+    second: Screenshot 1404-11-23 at 16.41.56_90
+  - first:
+      213: -2710629742526218815
+    second: Screenshot 1404-11-23 at 16.41.56_91
+  - first:
+      213: 7697548474954609331
+    second: Screenshot 1404-11-23 at 16.41.56_92
+  - first:
+      213: -4881240405312676113
+    second: Screenshot 1404-11-23 at 16.41.56_93
+  - first:
+      213: 3162935862325689713
+    second: Screenshot 1404-11-23 at 16.41.56_94
+  - first:
+      213: -201140849527772256
+    second: Screenshot 1404-11-23 at 16.41.56_95
+  - first:
+      213: -4679532381724325905
+    second: Screenshot 1404-11-23 at 16.41.56_96
+  - first:
+      213: 2880211553643322625
+    second: Screenshot 1404-11-23 at 16.41.56_97
+  - first:
+      213: 6002041866571543027
+    second: Screenshot 1404-11-23 at 16.41.56_98
+  - first:
+      213: 2434792449237067881
+    second: Screenshot 1404-11-23 at 16.41.56_99
+  - first:
+      213: 3328973868483181571
+    second: Screenshot 1404-11-23 at 16.41.56_100
+  - first:
+      213: 487339104028565932
+    second: Screenshot 1404-11-23 at 16.41.56_101
+  - first:
+      213: -2365720232130119368
+    second: Screenshot 1404-11-23 at 16.41.56_102
+  - first:
+      213: 5604959910571332684
+    second: Screenshot 1404-11-23 at 16.41.56_103
+  - first:
+      213: 32192241234070694
+    second: Screenshot 1404-11-23 at 16.41.56_104
+  - first:
+      213: 6832889073170256933
+    second: Screenshot 1404-11-23 at 16.41.56_105
+  - first:
+      213: -1203409033663103942
+    second: Screenshot 1404-11-23 at 16.41.56_106
+  - first:
+      213: 8938712459001351009
+    second: Screenshot 1404-11-23 at 16.41.56_107
+  - first:
+      213: 8740436955291239043
+    second: Screenshot 1404-11-23 at 16.41.56_108
+  - first:
+      213: -4731075355607038888
+    second: Screenshot 1404-11-23 at 16.41.56_109
+  - first:
+      213: 4089952061289420649
+    second: Screenshot 1404-11-23 at 16.41.56_110
+  - first:
+      213: 5554158624444053210
+    second: Screenshot 1404-11-23 at 16.41.56_111
+  - first:
+      213: 7315690107968425834
+    second: Screenshot 1404-11-23 at 16.41.56_112
+  - first:
+      213: 4784256357444285714
+    second: Screenshot 1404-11-23 at 16.41.56_113
+  - first:
+      213: 8672222636330289153
+    second: Screenshot 1404-11-23 at 16.41.56_114
+  - first:
+      213: -2179150423923119149
+    second: Screenshot 1404-11-23 at 16.41.56_115
+  - first:
+      213: -967233252240265405
+    second: Screenshot 1404-11-23 at 16.41.56_116
+  - first:
+      213: 7843434551695347397
+    second: Screenshot 1404-11-23 at 16.41.56_117
+  - first:
+      213: -3013387534265508352
+    second: Screenshot 1404-11-23 at 16.41.56_118
+  - first:
+      213: 9028385250851895251
+    second: Screenshot 1404-11-23 at 16.41.56_119
+  - first:
+      213: -3841317359931108683
+    second: Screenshot 1404-11-23 at 16.41.56_120
+  - first:
+      213: -7636643928913396780
+    second: Screenshot 1404-11-23 at 16.41.56_121
+  - first:
+      213: -6896089203146912773
+    second: Screenshot 1404-11-23 at 16.41.56_122
+  - first:
+      213: 8431500471101811729
+    second: Screenshot 1404-11-23 at 16.41.56_123
+  - first:
+      213: 7672898896955342444
+    second: Screenshot 1404-11-23 at 16.41.56_124
+  - first:
+      213: -842637040180386117
+    second: Screenshot 1404-11-23 at 16.41.56_125
+  - first:
+      213: -1290067863047417151
+    second: Screenshot 1404-11-23 at 16.41.56_126
+  - first:
+      213: -6200780339900744930
+    second: Screenshot 1404-11-23 at 16.41.56_127
+  - first:
+      213: -3906822446673612109
+    second: Screenshot 1404-11-23 at 16.41.56_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 410
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.48074958, y: 0.47112617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687afafe77c14b70800000000000000
+      internalID: 8881599288341854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 405
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.527231, y: 0.47853127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07607265961dfb00800000000000000
+      internalID: 863871534382475018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 392
+        width: 65
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4828233, y: 0.4492516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813cf487290d81550800000000000000
+      internalID: 6131880220167226136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 386
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e6f58c43ad8950800000000000000
+      internalID: 6452993390152180306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 380
+        width: 89
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49372777, y: 0.43177116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0b4fc46ed07140800000000000000
+      internalID: 4715513334412807806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 370
+        width: 109
+        height: 110
+      alignment: 9
+      pivot: {x: 0.53841126, y: 0.45686367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e528669e0fe50b2a0800000000000000
+      internalID: -6723769854863179170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_6
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 364
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44203562906461350800000000000000
+      internalID: 5987049759747277380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 194
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3236b5018e2d818e0800000000000000
+      internalID: -1722394963320544477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 13
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac386a14d794f7930800000000000000
+      internalID: 4143110984525317066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 141
+        height: 151
+      alignment: 9
+      pivot: {x: 0.46093425, y: 0.54255825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de4252ccb972510800000000000000
+      internalID: 1524358299987012981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 200
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a80cfea1fe733a0800000000000000
+      internalID: -6685612222837650814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 194
+        width: 137
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653efbccc1f83c900800000000000000
+      internalID: 703563320656913238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 192
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253e8c72652c3250800000000000000
+      internalID: 5925652314639447337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 124
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5296144, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f363d1a32ad1d5ab0800000000000000
+      internalID: -5017821827223964097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e94f8685e9010f00800000000000000
+      internalID: 1081156266955327974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 29
+        width: 135
+        height: 139
+      alignment: 9
+      pivot: {x: 0.53400177, y: 0.4867906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0bc1b0bdf2294f0800000000000000
+      internalID: -823543164024606559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 34
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e7a80ff1155b5d0800000000000000
+      internalID: -3047440375224828277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 47
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8161e551137390800000000000000
+      internalID: -7821889067261261009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screenshot 1404-11-23 at 16.41.56_98
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 56
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f40807498b4350800000000000000
+      internalID: 6002041866571543027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2169e1f821fb04fd4af16e8a69576f57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Screenshot 1404-11-23 at 16.41.56_0: 8881599288341854306
+      Screenshot 1404-11-23 at 16.41.56_1: 863871534382475018
+      Screenshot 1404-11-23 at 16.41.56_10: -6685612222837650814
+      Screenshot 1404-11-23 at 16.41.56_100: 3328973868483181571
+      Screenshot 1404-11-23 at 16.41.56_101: 487339104028565932
+      Screenshot 1404-11-23 at 16.41.56_102: -2365720232130119368
+      Screenshot 1404-11-23 at 16.41.56_103: 5604959910571332684
+      Screenshot 1404-11-23 at 16.41.56_104: 32192241234070694
+      Screenshot 1404-11-23 at 16.41.56_105: 6832889073170256933
+      Screenshot 1404-11-23 at 16.41.56_106: -1203409033663103942
+      Screenshot 1404-11-23 at 16.41.56_107: 8938712459001351009
+      Screenshot 1404-11-23 at 16.41.56_108: 8740436955291239043
+      Screenshot 1404-11-23 at 16.41.56_109: -4731075355607038888
+      Screenshot 1404-11-23 at 16.41.56_11: 703563320656913238
+      Screenshot 1404-11-23 at 16.41.56_110: 4089952061289420649
+      Screenshot 1404-11-23 at 16.41.56_111: 5554158624444053210
+      Screenshot 1404-11-23 at 16.41.56_112: 7315690107968425834
+      Screenshot 1404-11-23 at 16.41.56_113: 4784256357444285714
+      Screenshot 1404-11-23 at 16.41.56_114: 8672222636330289153
+      Screenshot 1404-11-23 at 16.41.56_115: -2179150423923119149
+      Screenshot 1404-11-23 at 16.41.56_116: -967233252240265405
+      Screenshot 1404-11-23 at 16.41.56_117: 7843434551695347397
+      Screenshot 1404-11-23 at 16.41.56_118: -3013387534265508352
+      Screenshot 1404-11-23 at 16.41.56_119: 9028385250851895251
+      Screenshot 1404-11-23 at 16.41.56_12: 5925652314639447337
+      Screenshot 1404-11-23 at 16.41.56_120: -3841317359931108683
+      Screenshot 1404-11-23 at 16.41.56_121: -7636643928913396780
+      Screenshot 1404-11-23 at 16.41.56_122: -6896089203146912773
+      Screenshot 1404-11-23 at 16.41.56_123: 8431500471101811729
+      Screenshot 1404-11-23 at 16.41.56_124: 7672898896955342444
+      Screenshot 1404-11-23 at 16.41.56_125: -842637040180386117
+      Screenshot 1404-11-23 at 16.41.56_126: -1290067863047417151
+      Screenshot 1404-11-23 at 16.41.56_127: -6200780339900744930
+      Screenshot 1404-11-23 at 16.41.56_128: -3906822446673612109
+      Screenshot 1404-11-23 at 16.41.56_13: 2253932276495644604
+      Screenshot 1404-11-23 at 16.41.56_14: -5017821827223964097
+      Screenshot 1404-11-23 at 16.41.56_15: 1081156266955327974
+      Screenshot 1404-11-23 at 16.41.56_16: -7943826350760002148
+      Screenshot 1404-11-23 at 16.41.56_17: -4621002056294335509
+      Screenshot 1404-11-23 at 16.41.56_18: -5034095040035930237
+      Screenshot 1404-11-23 at 16.41.56_19: 7031451511149707411
+      Screenshot 1404-11-23 at 16.41.56_2: 6131880220167226136
+      Screenshot 1404-11-23 at 16.41.56_20: 4280611394596135534
+      Screenshot 1404-11-23 at 16.41.56_21: -4243124105943400759
+      Screenshot 1404-11-23 at 16.41.56_22: 463355790016275277
+      Screenshot 1404-11-23 at 16.41.56_23: -3619607246086834757
+      Screenshot 1404-11-23 at 16.41.56_24: -127239048939571946
+      Screenshot 1404-11-23 at 16.41.56_25: -3110625966576137086
+      Screenshot 1404-11-23 at 16.41.56_26: -9110124686377871011
+      Screenshot 1404-11-23 at 16.41.56_27: 2411240541364801796
+      Screenshot 1404-11-23 at 16.41.56_28: -181214941282225358
+      Screenshot 1404-11-23 at 16.41.56_29: -7004209768268118618
+      Screenshot 1404-11-23 at 16.41.56_3: 6452993390152180306
+      Screenshot 1404-11-23 at 16.41.56_30: -1161511257875836824
+      Screenshot 1404-11-23 at 16.41.56_31: -8500087470722221127
+      Screenshot 1404-11-23 at 16.41.56_32: 2952039180464782818
+      Screenshot 1404-11-23 at 16.41.56_33: -1006512563867108381
+      Screenshot 1404-11-23 at 16.41.56_34: -965702904571347217
+      Screenshot 1404-11-23 at 16.41.56_35: -6216438382148059827
+      Screenshot 1404-11-23 at 16.41.56_36: 913644248663637931
+      Screenshot 1404-11-23 at 16.41.56_37: -8469430284299183796
+      Screenshot 1404-11-23 at 16.41.56_38: 6757827866231007817
+      Screenshot 1404-11-23 at 16.41.56_39: -440159634998525772
+      Screenshot 1404-11-23 at 16.41.56_4: 4715513334412807806
+      Screenshot 1404-11-23 at 16.41.56_40: -823543164024606559
+      Screenshot 1404-11-23 at 16.41.56_41: -3047440375224828277
+      Screenshot 1404-11-23 at 16.41.56_42: -6283277818591805314
+      Screenshot 1404-11-23 at 16.41.56_43: -7723723166663772045
+      Screenshot 1404-11-23 at 16.41.56_44: -1073538891994828951
+      Screenshot 1404-11-23 at 16.41.56_45: 3153945481020845527
+      Screenshot 1404-11-23 at 16.41.56_46: -2688320769757661563
+      Screenshot 1404-11-23 at 16.41.56_47: -7783063063594321918
+      Screenshot 1404-11-23 at 16.41.56_48: -2268550680047449163
+      Screenshot 1404-11-23 at 16.41.56_49: -5470795529507227000
+      Screenshot 1404-11-23 at 16.41.56_5: -6723769854863179170
+      Screenshot 1404-11-23 at 16.41.56_50: 3006916656134387412
+      Screenshot 1404-11-23 at 16.41.56_51: 1535901549468806614
+      Screenshot 1404-11-23 at 16.41.56_52: 1826207086564525577
+      Screenshot 1404-11-23 at 16.41.56_53: 7355840839762084650
+      Screenshot 1404-11-23 at 16.41.56_54: 6977869537636670228
+      Screenshot 1404-11-23 at 16.41.56_55: -5553325799596195127
+      Screenshot 1404-11-23 at 16.41.56_56: -7329376896613189224
+      Screenshot 1404-11-23 at 16.41.56_57: -2416567541939888484
+      Screenshot 1404-11-23 at 16.41.56_58: -7821889067261261009
+      Screenshot 1404-11-23 at 16.41.56_59: 7915294147321695761
+      Screenshot 1404-11-23 at 16.41.56_6: 5987049759747277380
+      Screenshot 1404-11-23 at 16.41.56_60: -3665263299183353445
+      Screenshot 1404-11-23 at 16.41.56_61: 4383198955608278382
+      Screenshot 1404-11-23 at 16.41.56_62: 2458138907655113288
+      Screenshot 1404-11-23 at 16.41.56_63: 5335339657450597793
+      Screenshot 1404-11-23 at 16.41.56_64: 4170694368822350608
+      Screenshot 1404-11-23 at 16.41.56_65: -6062662993445103662
+      Screenshot 1404-11-23 at 16.41.56_66: 396958675924452739
+      Screenshot 1404-11-23 at 16.41.56_67: -6236583501518136624
+      Screenshot 1404-11-23 at 16.41.56_68: 7541686019103508755
+      Screenshot 1404-11-23 at 16.41.56_69: -6953488739290279199
+      Screenshot 1404-11-23 at 16.41.56_7: -1722394963320544477
+      Screenshot 1404-11-23 at 16.41.56_70: 812894949000523033
+      Screenshot 1404-11-23 at 16.41.56_71: -6759077700392170546
+      Screenshot 1404-11-23 at 16.41.56_72: 3292105516253776112
+      Screenshot 1404-11-23 at 16.41.56_73: 3107706061524122965
+      Screenshot 1404-11-23 at 16.41.56_74: 4782196244746351934
+      Screenshot 1404-11-23 at 16.41.56_75: -9156646695899633123
+      Screenshot 1404-11-23 at 16.41.56_76: -8239993547089406240
+      Screenshot 1404-11-23 at 16.41.56_77: 3568286021793520037
+      Screenshot 1404-11-23 at 16.41.56_78: -5505042373008392177
+      Screenshot 1404-11-23 at 16.41.56_79: 2153597801393073978
+      Screenshot 1404-11-23 at 16.41.56_8: 4143110984525317066
+      Screenshot 1404-11-23 at 16.41.56_80: 5160637077872458978
+      Screenshot 1404-11-23 at 16.41.56_81: -1966959915627525689
+      Screenshot 1404-11-23 at 16.41.56_82: -2787256379445167218
+      Screenshot 1404-11-23 at 16.41.56_83: 6888276346597500201
+      Screenshot 1404-11-23 at 16.41.56_84: -2826536642594327654
+      Screenshot 1404-11-23 at 16.41.56_85: -5445280332476131945
+      Screenshot 1404-11-23 at 16.41.56_86: 4432139283272992227
+      Screenshot 1404-11-23 at 16.41.56_87: -7604630800743680728
+      Screenshot 1404-11-23 at 16.41.56_88: 951595768169937200
+      Screenshot 1404-11-23 at 16.41.56_89: -2239774032088351778
+      Screenshot 1404-11-23 at 16.41.56_9: 1524358299987012981
+      Screenshot 1404-11-23 at 16.41.56_90: 6521296928645786925
+      Screenshot 1404-11-23 at 16.41.56_91: -2710629742526218815
+      Screenshot 1404-11-23 at 16.41.56_92: 7697548474954609331
+      Screenshot 1404-11-23 at 16.41.56_93: -4881240405312676113
+      Screenshot 1404-11-23 at 16.41.56_94: 3162935862325689713
+      Screenshot 1404-11-23 at 16.41.56_95: -201140849527772256
+      Screenshot 1404-11-23 at 16.41.56_96: -4679532381724325905
+      Screenshot 1404-11-23 at 16.41.56_97: 2880211553643322625
+      Screenshot 1404-11-23 at 16.41.56_98: 6002041866571543027
+      Screenshot 1404-11-23 at 16.41.56_99: 2434792449237067881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

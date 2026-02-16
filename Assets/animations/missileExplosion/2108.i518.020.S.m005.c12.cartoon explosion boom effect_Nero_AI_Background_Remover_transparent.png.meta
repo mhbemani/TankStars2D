@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e9f60f6d39acd48d2a036ac610879535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7488065310911678850
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_0
+  - first:
+      213: 8846646833973558657
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_1
+  - first:
+      213: -7362246155254801512
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_2
+  - first:
+      213: 4435239965021918847
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_3
+  - first:
+      213: -188053795542684983
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_4
+  - first:
+      213: 1518657206828394176
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_5
+  - first:
+      213: 7776774947373486733
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_6
+  - first:
+      213: -598480966986097877
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_7
+  - first:
+      213: -6782267215715074568
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_8
+  - first:
+      213: 2684900186749538307
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_9
+  - first:
+      213: 2918754529812827477
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_10
+  - first:
+      213: -8972178649544908868
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_11
+  - first:
+      213: 9037461974267430320
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_12
+  - first:
+      213: 3636125427850955862
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_13
+  - first:
+      213: 5167199090740386114
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_14
+  - first:
+      213: -5541731761033071938
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_15
+  - first:
+      213: -1854936653229002405
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_16
+  - first:
+      213: -2196825603038082271
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_17
+  - first:
+      213: 5945115645689301807
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_18
+  - first:
+      213: 8693196262513983353
+    second: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 872
+        width: 183
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e763f20f54c051890800000000000000
+      internalID: -7488065310911678850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 868
+        width: 327
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df3588c6a95ca70800000000000000
+      internalID: 8846646833973558657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 862
+        width: 737
+        height: 413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b5d0fe02c04d990800000000000000
+      internalID: -7362246155254801512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 893
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765fb0df332d8d30800000000000000
+      internalID: 4435239965021918847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 857
+        width: 538
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa30eb116e36df0800000000000000
+      internalID: -188053795542684983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 970
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6e794feaa531510800000000000000
+      internalID: 1518657206828394176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 966
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829a5c8c97aceb60800000000000000
+      internalID: 7776774947373486733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 947
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b16fd3bb4c1b7f0800000000000000
+      internalID: -598480966986097877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 874
+        width: 108
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd768bb6eb80e1a0800000000000000
+      internalID: -6782267215715074568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 917
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3001690ae7ea24520800000000000000
+      internalID: 2684900186749538307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 849
+        width: 180
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4e08d7cf718820800000000000000
+      internalID: 2918754529812827477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 898
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf188c0e0b6c7380800000000000000
+      internalID: -8972178649544908868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 378
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58f4778c38b6d70800000000000000
+      internalID: 9037461974267430320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 323
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c42d5cfcc167230800000000000000
+      internalID: 3636125427850955862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 287
+        width: 293
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2495d4f223495b740800000000000000
+      internalID: 5167199090740386114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 176
+        width: 1301
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2bf1f1350d713b0800000000000000
+      internalID: -5541731761033071938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 309
+        width: 228
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51fe6711f0f146e0800000000000000
+      internalID: -1854936653229002405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 481
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b8e69d0ce4381e0800000000000000
+      internalID: -2196825603038082271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 352
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8de16e2b418250800000000000000
+      internalID: 5945115645689301807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 335
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f36e531ff64a870800000000000000
+      internalID: 8693196262513983353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae4167c8387f14e578cff9620f9c6415
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_0: -7488065310911678850
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_1: 8846646833973558657
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_10: 2918754529812827477
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_11: -8972178649544908868
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_12: 9037461974267430320
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_13: 3636125427850955862
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_14: 5167199090740386114
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_15: -5541731761033071938
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_16: -1854936653229002405
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_17: -2196825603038082271
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_18: 5945115645689301807
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_19: 8693196262513983353
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_2: -7362246155254801512
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_3: 4435239965021918847
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_4: -188053795542684983
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_5: 1518657206828394176
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_6: 7776774947373486733
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_7: -598480966986097877
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_8: -6782267215715074568
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect_Nero_AI_Background_Remover_transparent_9: 2684900186749538307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 82459651cdaae436c884bb685d1103fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5614802066729842806
+    second: 123go_0
+  - first:
+      213: 1283127025638858730
+    second: 123go_1
+  - first:
+      213: 2251599620358527974
+    second: 123go_2
+  - first:
+      213: 5198931519307671327
+    second: 123go_3
+  - first:
+      213: -2822989664284889263
+    second: 123go_4
+  - first:
+      213: -767552751749275404
+    second: 123go_5
+  - first:
+      213: -1206290692766813622
+    second: 123go_6
+  - first:
+      213: 5948501660654287044
+    second: 123go_7
+  - first:
+      213: -8267957784956801989
+    second: 123go_8
+  - first:
+      213: -4686585687043649821
+    second: 123go_9
+  - first:
+      213: 4300650159262287318
+    second: 123go_10
+  - first:
+      213: -3363388339677601305
+    second: 123go_11
+  - first:
+      213: 6084784108033982399
+    second: 123go_12
+  - first:
+      213: -1815994898470665212
+    second: 123go_13
+  - first:
+      213: -793648212883521465
+    second: 123go_14
+  - first:
+      213: -3816860270898946612
+    second: 123go_15
+  - first:
+      213: 3593961482692639578
+    second: 123go_16
+  - first:
+      213: 2093115501526851453
+    second: 123go_17
+  - first:
+      213: -7184657885761583111
+    second: 123go_18
+  - first:
+      213: -1608595868549416464
+    second: 123go_19
+  - first:
+      213: -7757053417415234021
+    second: 123go_20
+  - first:
+      213: -3444236726363886342
+    second: 123go_21
+  - first:
+      213: -4645360942546780113
+    second: 123go_22
+  - first:
+      213: -5556148978565029288
+    second: 123go_23
+  - first:
+      213: 6805860293667238528
+    second: 123go_24
+  - first:
+      213: 2067801332010392326
+    second: 123go_25
+  - first:
+      213: 3831855233092693293
+    second: 123go_26
+  - first:
+      213: 2860564582474772859
+    second: 123go_27
+  - first:
+      213: -964656611259188560
+    second: 123go_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 123go_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 704
+        width: 141
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678bf8f2bb8cbed40800000000000000
+      internalID: 5614802066729842806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 723
+        width: 127
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef58e44b359ec110800000000000000
+      internalID: 1283127025638858730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 754
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdfdbdce94f3f10800000000000000
+      internalID: 2251599620358527974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 798
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176ae3fba0562840800000000000000
+      internalID: 5198931519307671327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 834
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f23bf6bd9b2d8d0800000000000000
+      internalID: -2822989664284889263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 873
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f06c95c6da1955f0800000000000000
+      internalID: -767552751749275404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 511
+        width: 123
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4236c19105624fe0800000000000000
+      internalID: -1206290692766813622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 549
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8be1d6eb25d8250800000000000000
+      internalID: 5948501660654287044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 598
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c69b93330524d80800000000000000
+      internalID: -8267957784956801989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 643
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4552f527e5feb0800000000000000
+      internalID: -4686585687043649821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 469
+        width: 144
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d54e06b88afeab30800000000000000
+      internalID: 4300650159262287318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 493
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e163d30028d251d0800000000000000
+      internalID: -3363388339677601305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 105
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.38966575, y: 0.35457474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfbe4e58ee717450800000000000000
+      internalID: 6084784108033982399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 291
+        width: 61
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4472679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb4584de050e130800000000000000
+      internalID: 3593961482692639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_20
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 341
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2c37f309695490800000000000000
+      internalID: -7757053417415234021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 208
+        width: 100
+        height: 212
+      alignment: 9
+      pivot: {x: 0.49080956, y: 0.4002923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afce9ba12fc9330d0800000000000000
+      internalID: -3444236726363886342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 250
+        width: 81
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39543802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20860eb5dc588fb0800000000000000
+      internalID: -4645360942546780113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 290
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526b7511f794e2b0800000000000000
+      internalID: -5556148978565029288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 356
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b1f841b5e42bc10800000000000000
+      internalID: 2067801332010392326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 419
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d263f480c7d2530800000000000000
+      internalID: 3831855233092693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 54
+        width: 314
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71f873f454c2b720800000000000000
+      internalID: 2860564582474772859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123go_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 124
+        width: 204
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf9ab4ce9dc92f0800000000000000
+      internalID: -964656611259188560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a80dd6374eb84e9ba76c680c7fa2399
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      123go_0: 5614802066729842806
+      123go_1: 1283127025638858730
+      123go_10: 4300650159262287318
+      123go_11: -3363388339677601305
+      123go_12: 6084784108033982399
+      123go_13: -1815994898470665212
+      123go_14: -793648212883521465
+      123go_15: -3816860270898946612
+      123go_16: 3593961482692639578
+      123go_17: 2093115501526851453
+      123go_18: -7184657885761583111
+      123go_19: -1608595868549416464
+      123go_2: 2251599620358527974
+      123go_20: -7757053417415234021
+      123go_21: -3444236726363886342
+      123go_22: -4645360942546780113
+      123go_23: -5556148978565029288
+      123go_24: 6805860293667238528
+      123go_25: 2067801332010392326
+      123go_26: 3831855233092693293
+      123go_27: 2860564582474772859
+      123go_28: -964656611259188560
+      123go_3: 5198931519307671327
+      123go_4: -2822989664284889263
+      123go_5: -767552751749275404
+      123go_6: -1206290692766813622
+      123go_7: 5948501660654287044
+      123go_8: -8267957784956801989
+      123go_9: -4686585687043649821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
