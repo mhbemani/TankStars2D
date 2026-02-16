@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0bac549dcb14945ada5d717b334296, type: 3}
+  m_Name: Data_bazuka
+  m_EditorClassIdentifier: Assembly-CSharp::MissileData
+  missileName: SukaBazuka
+  icon: {fileID: 8436984741967699518, guid: 2306ff1f8196f4b7385c08d7e5be18a4, type: 3}
+  missileIcon: {fileID: -242302042820607475, guid: 72c87a1ff904740e8bae03d40682a1e7, type: 3}
+  ammoCount: 2
+  missilePrefab: {fileID: 2785023565490510199, guid: b54b3270c6021441cbbf15484f6383ad, type: 3}
+  explosionPrefab: {fileID: 2494669799123002573, guid: aba35bdb6fc754078895ce3371936de8, type: 3}
+  muzzleFlashController: {fileID: 9100000, guid: 92e72cd09d4a14ed1b832e2c34e66728, type: 2}
+  gravityScale: 1
+  speedMultiplier: 1
+  explosionRadius: 2
+  burstCount: 1
+  damage: 30
+  runtimeMaxRange: 0
+  isLaser: 0
